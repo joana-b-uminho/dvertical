@@ -506,20 +506,21 @@ Podemos dizer, pois, que ficamos tocadas, na generalidade, a nível pessoal. Tam
      É notório o sofrimento de Ivan Ilitch, manifestando vontade em morrer devido há intensa dor que sente não cedendo a potentes analgésicos como morfina e ópio. No entanto, mantém o seu instinto de sobrevivência. Durante este período de sofrimento desesperado, sente-se abandonado e não amado: “(...) Queria que o acarinhassem, que o beijassem, que chorassem por ele como quem acaricia e consola as crianças.” Questiona-se sobre a sua vida de mentiras, apercebendo-se da insignificância da mesma e da fragilidade das suas conquistas. Nesta fase “a sua vida divide-se em dois estados de espíritos opostos, ou o desespero e a espera da morte incompreensível e horrenda, ou a esperança e uma observação interessada do funcionamento do seu corpo.”
      Inicia um caminho de busca pelo sentido da vida, durante o qual percebe terem sido poucos os momentos da sua existência com significado, revivendo sobretudo a sua feliz infância.
      O médico de Ivan revelou má prática uma vez que se focou apenas no diagnóstico, sem revelar pormenores ao doente especialmente no que concerne ao prognóstico. “(...) Nós, os doentes, fazemos muitas vezes, provavelmente, perguntas despropositadas... Contudo, esta doença é perigosa ou não? O médico lançou-lhe um olhar severo através dos óculos, como se dissesse: acusado, se sai fora dos limites das perguntas que lhe são feitas, serei obrigado a fazê-lo sair da sala do tribunal.”
-
-     À luz do Código Deontológico, segundo o Artigo 44.º, relativo ao esclarecimento do médico ao doente, salientamos os seguintes pontos que divergem na conduta adoptada pelo médico de Ivan:
-1. O doente tem o direito a receber e o médico o dever de prestar o esclarecimento sobre o diagnóstico, a terapêutica e o prognóstico da sua doença.
-2. O esclarecimento deve ser prestado previamente e incidir sobre os aspectos relevantes de actos e práticas, dos seus objectivos e consequências funcionais, permitindo que o doente possa consentir em consciência.
-3. O esclarecimento deve ser prestado pelo médico com palavras adequadas, em termos compreensíveis, adaptados a cada doente, realçando o que tem importância ou o que, sendo menos importante, preocupa o doente.
-4. O esclarecimento deve ter em conta o estado emocional do doente, a sua capacidade de compreensão e o seu nível cultural.
-5. O esclarecimento deve ser feito, sempre que possível, em função dos dados probabilísticos e dando ao doente as informações necessárias para que possa ter uma visão clara da situação clínica e optar com decisão consciente.
+          À luz do Código Deontológico, segundo o Artigo 44.º, relativo ao esclarecimento do médico ao doente, salientamos os seguintes pontos que divergem na conduta adoptada pelo médico de Ivan:
+. O doente tem o direito a receber e o médico o dever de prestar o esclarecimento sobre o diagnóstico, a terapêutica e o prognóstico da sua doença.
+. O esclarecimento deve ser prestado previamente e incidir sobre os aspectos relevantes de actos e práticas, dos seus objectivos e consequências funcionais, permitindo que o doente possa consentir em consciência.
+. O esclarecimento deve ser prestado pelo médico com palavras adequadas, em termos compreensíveis, adaptados a cada doente, realçando o que tem importância ou o que, sendo menos importante, preocupa o doente.
+. O esclarecimento deve ter em conta o estado emocional do doente, a sua capacidade de compreensão e o seu nível cultural
+. O esclarecimento deve ser feito, sempre que possível, em função dos dados probabilísticos e dando ao doente as informações necessárias para que possa ter uma visão clara da situação clínica e optar com decisão consciente.
 
 Segundo o Artigo 50.º, relativo à revelação de diagnóstico e prognóstico:
-1. O diagnóstico e o prognóstico devem, por regra, ser sempre revelados ao doente, em respeito pela sua dignidade e autonomia.
+O diagnóstico e o prognóstico devem, por regra, ser sempre revelados ao doente, em respeito pela sua dignidade e autonomia.
 
 Segundo o Artigo 57.º:
-1. O médico deve respeitar a dignidade do doente no momento do fim da vida.
+O médico deve respeitar a dignidade do doente no momento do fim da vida.
+
 Podemos concluir que Ivan é observado superficialmente por vários médicos de renome, em que as suas queixas e dúvidas sobre a doença são simplesmente ignoradas e encontrando num humilde criado a única pessoa que revela humanismo tratando-o com dignidade. Ao longo desta história, Tolstói procura evidenciar a fragilidade da existência humana. Fazendo-nos analisar a importância da escolha dos nossos valores os quais serão questionados nos momentos cruciais da nossa vida. 
+
 
 # outra reflexão do livro “A Morte de Ivan Ilitch”
 
