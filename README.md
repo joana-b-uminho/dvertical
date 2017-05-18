@@ -1,16 +1,5 @@
 # dvertical
 1- ÈTICA EM MEDICINA FORENSE: MORTE, DIAGNÓSTICO DA CAUSA E DA ETIOLOGIA MEDICO LEGAL
-# caso 1 (aula) Exercicio aula “Imagine que é médico INEM e que é chamado para prestar socorro a uma vítima do género masculino de 42 anos, que apareceu na via pública com lesões de arma branca localizadas na face antero-lateral direita do pescoço.”
-
-Qual primeira atitude a tomar?
-Avaliar a necessidade de suporte basico/avancado de vida e proceder ao transporte para o hospital
-
-b) Tendo realizado manobras de suporte básico de vida, verifica que esta vítima está morta, que deve fazer de seguida? 
-Tem de verificar o obito com data, hora, assinatura e numero mecanografico, sendo apos encaminhado para os servicos medico legais, aguardando a resposta do ministerio publico sobre como proceder de seguida. Considerando este caso como uma morte violenta sera posteriormente feita uma autopsia medico legal. 
-
-c) Diga justificando qual o diagnóstico diferencial médico-legal deste caso?
-O diagnóstico diferencial médico-legal mais provavel é o homicidio, por ter sido um acto na via publica, com multiplas lesoes, arma branca. Nao podemos excluir contudo suicidio,já que as múltiplas lesões apresentadas poderã ser marcas de hesitação.
-
 # A Medicina Legal 
 é uma especialidade médica que se ocupa, primordialmente, da aplicação dos conhecimentos e metodologias médicas à resolução de questões de natureza jurídica e de problemas para as pessoas e sociedade. Na resolução dos casos médico-legais e forenses, envolve e utiliza, de forma direta e indireta, não só conhecimentos e métodos extraídos de outras especialidades médicas, como recorre ainda a um amplo conjunto de ciências e tecnologias. Implica a observação, descrição, documentação, colheita, avaliação e interpretação científica de evidências médicas decorrentes de investigações clínicas e post mortem necessárias para os diferentes campos do Direito Penal, do Trabalho, Civil, Família e Menores, Administrativo, entre outros.
 
@@ -227,7 +216,7 @@ Discussão
 Conclusões
 
 # SICO
-1. O que é o SICO? 
+1.O que é o SICO? 
 
 O SICO é o Sistema de Informação dos Certificados de óbito que foi instituído pela Lei nº 15/2012 de 3 de Abril (ver arquitetura do sistema).
 
@@ -242,7 +231,7 @@ A emissão e a transmissão eletrónica dos certificados de óbito às conservat
 Ver arquitetura do Sistema de Informação dos Certificados de Óbito
 
 
-2. Como funciona o SICO? 
+2.Como funciona o SICO? 
 
 O SICO permite a emissão de certificados de óbito eletronicamente através do endereço https://servicos.min-saude.pt/sico.
 
@@ -255,89 +244,89 @@ O SICO articula-se ainda com as Autoridades de Polícia, Instituto Nacional de E
 A Direção-Geral da Saúde é a entidade responsável pelo tratamento da base de dados e garante a vigilância epidemiológica da mortalidade identificando situações de risco para a saúde pública e a codificação das causas de morte de acordo com a Classificação Internacional de Doenças, transmitindo esta informação ao Instituto Nacional de Estatística (INE).
 
 
-3. Qual é o contacto de helpdesk do SICO para apoio informático?
+3.Qual é o contacto de helpdesk do SICO para apoio informático?
 
 Os contactos do centro de suporte para o SICO são assegurados pelos Serviços Partilhados do Ministério da Saúde através do e-mail: servicedesk@spms.min-saude.pt e do telefone: 220 129 818 disponível 24 horas por dia, todos os dias.
 
 
-4. Quando será obrigatória a utilização do SICO para certificação dos óbitos?
+4.Quando será obrigatória a utilização do SICO para certificação dos óbitos?
 
 A utilização do SICO será obrigatória para a certificação dos óbitos ocorridos em território nacional a partir das 0 horas de 1 de janeiro de 2014, segundo Despacho nº 13788/2013 de 29 de Outubro de 2013.
 
 
 B - Médicos/Instituições de Saúde
 
-1. Como posso aceder ao SICO?
+1.Como posso aceder ao SICO?
 
 O link de acesso ao SICO está disponível através da página da DGS www.dgs.pt, espaço “SICO” (barra lateral esquerda) - emitir certificado de óbito (clicar no logo).
 Pode ainda ser gravado no computador o endereço https://servicos.min-saude.pt/sico que redireciona diretamente para o SICO.
 Deve ainda consultar a Orientação nº 20/2013 da DGS para informação adicional e consulta do “Guia Prático” para a utilização do SICO.
 
 
-2. Não tenho password (ou esqueci-me dela). Como posso obtê-la?
+2.Não tenho password (ou esqueci-me dela). Como posso obtê-la?
 
 Pode pedir diretamente na pagina inicial do SICO no botão “Pedir Acesso” e solicitar a geração de nova password, indicando obrigatoriamente nº. cédula, nome completo, data de nascimento, nº telemóvel, email e instituição onde exerce funções; Caso seja indicado que já tem um utilizador criado, deve preencher o campo “Esqueci-me da senha”. Em situações urgentes deve ser ainda contactado o helpdesk para apoio informático do SICO 220 129 818 ou enviar email para o endereço servicedesk@spms.min-saude.pt.
 
 
-3. Como posso obter automaticamente os dados de identificação do falecido ao preencher o formulário eletrónico?
+3.Como posso obter automaticamente os dados de identificação do falecido ao preencher o formulário eletrónico?
 
 Colocando o nº de identificação civil (nº de bilhete de identidade) e o nº de utente e carregando na lupa. O nº de identificação civil deve ser obrigatoriamente utilizado para preenchimento automático dos dados de identificação de acordo com o Registo Civil. O nº de utente preencherá automaticamente a morada.
 
 
-4. Tenho que emitir um certificado de óbito para uma pessoa cuja identificação é desconhecida. Como devo proceder?
+4.Tenho que emitir um certificado de óbito para uma pessoa cuja identificação é desconhecida. Como devo proceder?
 
 Nestas situações deve escrever "desconhecido" nos campos relativos ao nome e filiação, e simultaneamente, escrever no campo Observações, as circunstâncias que justificam esse fato; Apenas em situações nas quais seja impossível obter a identificação do indivíduo falecido esta opção deve ser utilizada, uma vez que estes dados são os que permitem identificar inequivocamente o indivíduo para o registo civil do falecimento e a sua ausência inviabilizará os procedimentos necessários para o enterramento do cadáver.
 
 
-5. O SICO parece não estar disponível e pretendo emitir um certificado de óbito (CO). O que devo fazer?
+5.O SICO parece não estar disponível e pretendo emitir um certificado de óbito (CO). O que devo fazer?
 
 Deve contactar o helpdesk para confirmar essa indisponibilidade. Caso aquela seja confirmada será enviado pelo helpdesk um “Documento comprovativo da indisponibilidade do SICO” que deverá ser entregue juntamente com o modelo de certificado em papel na Conservatória do Registo Civil.
 O médico deve emitir o certificado num dos modelos nº. 1725 ou 1725A, da Impressa Nacional Casa da Moeda, consoante os casos, ficar com uma cópia e, dentro de 48h, transcrever o conteúdo do papel para o SICO tendo o cuidado de escolher a opção ‘Registar CO Normal em Papel’ ou ‘CO Fetal em Papel’, consoante o caso, tendo o cuidado de inserir o nº. do documento em papel que utilizou e que consta no cabeçalho do papel. Isto tem como propósito evitar que surjam 2 números de certificado de óbito para a mesma pessoa. O registo do certificado de óbito no SICO é imprescindível para a certificação do óbito, uma vez que o modelo de papel se destina apenas ao transporte e inumação do cadáver.
 
 
-6. Devo imprimir o certificado de óbito ou a guia de transporte?
+6.Devo imprimir o certificado de óbito ou a guia de transporte?
 
 Deve imprimir sempre a guia de transporte para acompanhar o cadáver. O certificado de óbito não deve ser impresso para este efeito. A guia de transporte tem o mesmo efeito e garante a confidencialidade da informação de saúde constante no certificado de óbito;
 (topo)
 
-7. Foram identificados erros no preenchimento do certificado de óbito (CO) já emitido. Como devo proceder?
+7.Foram identificados erros no preenchimento do certificado de óbito (CO) já emitido. Como devo proceder?
 
 Deve solicitar a guia de transporte para identificar o nº. do CO  emitido (caso não o tenha). Deve aceder ao SICO em “Certificado de óbito electrónico” - ‘Complementar o CO’ pesquisando o certificado através do número do certificado e corrigir o erro. Após esta correção deverá emitir uma nova Guia de transporte que comprovará a retificação efetuada.
 
 
-8. Como registo no SICO o resultado de uma autópsia?
+8.Como registo no SICO o resultado de uma autópsia?
 
 O resultado da autópsia, clínica ou médico-legal, deve obrigatoriamente ser inserido no SICO em ‘Relatório de autópsia’, sempre que aquela tenha lugar. Os dados da autópsia devem ser registados tão cedo quanto possível para que os mesmos sejam utilizados na codificação das causas de morte efetuadas pela Direção-Geral da Saúde.
 
 
-9. O que é o Boletim de Informação Clínica (BIC) e quando devo preenchê-lo?
+9.O que é o Boletim de Informação Clínica (BIC) e quando devo preenchê-lo?
 
 O BIC deve ser preenchido em situações de morte violenta ou causa desconhecida quando o óbito ocorre em instituições de saúde e destina-se a comunicar ao Ministério Público a informação clínica e circunstancial recolhida pelo médico que certificou o óbito para informar a sua decisão sobre a realização de autópsia médico-legal.
 
 
-10. Há uma situação suspeita de morte violenta (ou desconhecida) no meu hospital e tenho que preencher o Boletim de Informação Clínica (BIC). Devo fazê-lo no SICO? Como vai chegar ao Ministério Público?
+10.Há uma situação suspeita de morte violenta (ou desconhecida) no meu hospital e tenho que preencher o Boletim de Informação Clínica (BIC). Devo fazê-lo no SICO? Como vai chegar ao Ministério Público?
 
 Deve recorrer ao SICO para registar o BIC. Após o registo do BIC é possível gerar um PDF ou imprimir para colocação no processo clínico. A comunicação ao Ministério Público deste facto tem que ser feito por email ou fax e/ou telefone, tal como acontecia anteriormente (consultar a Orientação nº 20/2013 da DGS para modelo de ofício de comunicação ao Ministério Público); O Ministério Público fará também a comunicação da sua decisão pelos mesmos meios, de forma a informar se foi ordenada ou dispensada a autópsia médico-legal.
 
 
-11. Como posso alterar a minha password?
+11.Como posso alterar a minha password?
 
 Neste momento o SICO não permite alterar a sua password. Caso seja necessário fazê-lo por questões de segurança deverá contactar o helpdesk para apoio informático do SICO 220 129 818 ou enviar email para o endereço servicedesk@spms.min-saude.pt.
 
 
-12. Registei um Certificado de óbito (CO) e agora preciso de o corrigir mas não me lembro do número desse CO. Como posso fazer?
+12.Registei um Certificado de óbito (CO) e agora preciso de o corrigir mas não me lembro do número desse CO. Como posso fazer?
 
 Pode “Consultar CO” sem qualquer filtro e irão aparecer todos os CO que emitiu ou retificou. Basta então que encontre o CO pretendido e anotar o número. Em seguida deve aceder a “Complementar CO” e fazer a retificação pretendida.
 
 
 C - Ministério Público
 
-1. Qual a intervenção do Ministério Público no SICO?
+1.Qual a intervenção do Ministério Público no SICO?
 
 O Ministério Público deve aceder ao SICO nas situações de morte violenta, causa desconhecida, suspeitas de crime ou tendo o óbito ocorrido há mais de um ano para assinalar a dispensa ou não de autópsia médico-legal e a colocação das causas de morte em segredo de justiça, se assim pretender. Este acesso é imprescindível para que o certificado de óbito seja enviado ao Instituto dos Registos e do Notariado, I.P. (conservatória do registo civil), a fim de ser lavrado o assento de óbito.
 
 
-2. Não tenho password (ou esqueci-me dela). Como posso obtê-la?
+2.Não tenho password (ou esqueci-me dela). Como posso obtê-la?
 
 As senhas de acesso são as mesmas que utiliza para aceder à aplicação TMENU. Experimente p.f.. O endereço é: https://serviços.min-saude.pt/sico. 
 Caso as suas senhas não funcionem deverá comunicar com o ITIJ através do endereço apoio@mail.itij.mj.pt, ou dos telefones 707 200 004 ou 21 318 9000, durante os dias úteis, das 08:00 às 20:00;
@@ -345,12 +334,12 @@ Caso as suas senhas não funcionem deverá comunicar com o ITIJ através do ende
 
 D - Autoridades de Polícia (PSP, GNR e Polícia Marítima)
 
-1. Qual a intervenção das Autoridades de Polícia no SICO?
+1.Qual a intervenção das Autoridades de Polícia no SICO?
 
 As Autoridades de Polícia devem aceder ao SICO para imprimir o boletim de óbito nas situações previstas na lei. Para este efeito utilizam a informação constante na guia de transporte para consultar o certificado de óbito. Após a sua apreciação e validação, devem imprimir o boletim de óbito através do SICO.
 
 
-2. Quero aceder ao SICO mas não tenho password (ou esqueci-me dela). Como posso obtê-la?
+2.Quero aceder ao SICO mas não tenho password (ou esqueci-me dela). Como posso obtê-la?
 
 As senhas de acesso são as mesmas que utilizam nas aplicações do Ministério da Administração Interna. O endereço é: https://serviços.min-saude.pt/sico. 
 Caso as suas senhas não funcionem deverá comunicar com a UTIS através do endereço helpdesk@rnsi.local ou do telefone 214219700 para validação;
@@ -371,11 +360,16 @@ qd termina uma autopsia, sabe se na maioria das vezes de que é que a pessoa mor
 Marcas de hesitação- junto ao ponto de começo da lesão, saber se é dextro tb é imp, mas as lesoes de hesitação sao mais imp. o lacla mais comum para suicidio é no pre cordio e não os cortes radiais e 2º no pescoço (degulação suicida). O povo corta na linha média-  a consequencia é uma traqueotomia e não é eficiente para provocar a morte, se enfiar por baixo até pode ser eficaz pq atinge os vasos q passam por baixo da clavicula.Mas podem começar pelas radiais e depois vêm que não é efectivo e passam para o pescoço, colocando pensos nos pulsos. sp que lesão radial, retirar conteudo estomacal mesmo que estes neguem pq a intoxicação concomitante é outro método frequente. Acto de suicidio planeado é = a suicidio complexo.
 Lesoes de defesa: braços, maos. Se o Su o recebe e depois morre- preservar as roupas, colocar sacos de papel à volta das mãos para preservar vestigios.
 # caso 1 “Imagine que é médico INEM e que é chamado para prestar socorro a uma vítima do género masculino de 42 anos, que apareceu na via pública com lesões de arma branca localizadas na face antero-lateral direita do pescoço.”
-a) Qual primeira atitude a tomar?
-b) Tendo realizado manobras de suporte básico de vida, verifica que esta vítima está
-morta, que deve fazer de seguida?
-c) Diga justificando qual o diagnóstico diferencial médico-legal deste caso?
-Lesoes por Arma Branca- cortar as femorais, é mais para pessoal ligado à saúde. No oriente, enfiam arma para dentro do abd e depois atarvessam no.
+
+Qual primeira atitude a tomar?
+Avaliar a necessidade de suporte basico/avancado de vida e proceder ao transporte para o hospital
+
+b) Tendo realizado manobras de suporte básico de vida, verifica que esta vítima está morta, que deve fazer de seguida? 
+Tem de verificar o obito com data, hora, assinatura e numero mecanografico, sendo apos encaminhado para os servicos medico legais, aguardando a resposta do ministerio publico sobre como proceder de seguida. Considerando este caso como uma morte violenta sera posteriormente feita uma autopsia medico legal. 
+
+c) Diga justificando qual o diagnóstico diferencial médico-legal deste caso?
+O diagnóstico diferencial médico-legal mais provavel é o homicidio, por ter sido um acto na via publica, com multiplas lesoes, arma branca. Nao podemos excluir contudo suicidio,já que as múltiplas lesões apresentadas poderã ser marcas de hesitação. Lesoes por Arma Branca- cortar as femorais, é mais para pessoal ligado à saúde. No oriente, enfiam arma para dentro do abd e depois atarvessam no.
+
 # Caso 2 “Imagine que é médico INEM e que é chamado para prestar socorro a uma vítima do género feminino de 56 anos, encontrada na sua residência inanimada, com sinais de vómito. Não há história de tentativas anteriores de suicídio, são conhecidos antecedentes psiquiátricos do foro depressivo.”
 a) Qual primeira atitude a tomar?
 b) Tendo realizado manobras de suporte básico de vida, verifica que esta vítima está
@@ -391,6 +385,7 @@ b) Diga justificando da necessidade de realização de autópsia médico-leg
 c) Diga justificando qual o diagnóstico diferencial médico-legal deste caso?
 
 Rta: 1ª atitude é verificar o óbito, preencher o Bic coma informação dos bombeiros e dados da reanimação. 2º desmaios sucessivos- era seguida em consulta de cardio? consultar familiares, médicos, entrar na plataforma de dados da saúde e se se verificar que tem MCPatia hipertrofica isto deve constar no BIC, é uma morte súbita de causa natural. O desporto que mais mortes fornece é o futsal por isso se deve fazer a todos um ECG com prova de esforço e estetoscopio no torax e analises. Um atleta de alta competição o seu coração tem 420 grs e o normal é 380 grs. O MP quase sp solicita autopsia nestas situaçoes, como é nao federado, não pedimos subs dopantes(o que é feito para todos os desportistas de alta competição). Os medicos de clubes passam atestados sem sequer ver o dte...
+
 # Caso 4 “Imagine que é o Delegado de Saúde que é chamado para verificar o óbito de um indivíduo do género masculino com cerca de 30 anos que apareceu em suspensão completa no interior de um prédio em construção. Esse prédio é frequentado habitualmente por toxicodependentes.”
 a) Qual primeira atitude a tomar?
 b) Diga justificando da necessidade de realização de autópsia médico-legal.
@@ -406,9 +401,12 @@ c) Diga justificando qual o diagnóstico diferencial médico-legal deste caso?
 Só a partir da conjugação da informação da autópsia e da investigação policial é que será possível determinar o diagnóstico médico-legal. No entanto, com a informação disponível neste momento, parece ser mais provável tratar-se de um suicídio ou de um acidente, sendo que o suicídio é de longe a opção mais provável dado que o enforcamento é o método mais usado em todo o mundo. É ainda possível a ocorrência de homicídio, no entanto este diagnóstico diferencial é muito raro e improvável no contexto deste caso.
 
 # Caso 5 “Imagine que é médico de Medicina Geral e Familiar e é chamado para a verificação de óbito de um indivíduo do género masculino de 75 anos, inscrito na sua lista de utentes do Centro de Saúde. A vítima foi encontrada morta em casa. Antecedentes de diabetes tipo II, hipertensão arterial e glaucoma. Não há suspeita de violência.”
-a) Qual primeira atitude a tomar?
-b) Diga justificando da necessidade de realização de autópsia médico-legal.
-c) Diga justificando qual o diagnóstico diferencial médico-legal deste caso?
+a) Qual primeira atitude a tomar?Verificação do óbito, com registo de data e hora da morte.
+
+b) Diga justificando da necessidade de realização de autópsia médico-legal.Face à ausência de sinais de morte violenta e presença de antecedentes patológicos que possam estar na origem do óbito, dispensa-se a realização da autópsia médico-legal.
+
+c) Diga justificando qual o diagnóstico diferencial médico-legal deste caso? Tendo em conta a inexistência de sinais de violência e os antecedentes patológicos conhecidos, consideramos provável a morte de causa natural. Não obstante, é importante a obtenção dos dados relativos à avaliação do local onde este foi encontrado e o contexto bio-psico-social do indivíduo, para exclusão de outros diagnósticos, como o suicídio.
+
 Rta- 1º confirmar o óbito/Verificação do óbito, com registo de data e hora da morte., 2º sem necessidade de autopsia pq sou MGF e conheço o dte- mas tem que ir a casa do dte/Face à ausência de sinais de morte violenta e presença de antecedentes patológicos que possam estar na origem do óbito, dispensa-se a realização da autópsia médico-legal. 3º causa natural/Tendo em conta a inexistência de sinais de violência e os antecedentes patológicos conhecidos, consideramos provável a morte de causa natural. Não obstante, é importante a obtenção dos dados relativos à avaliação do local onde este foi encontrado e o contexto bio-psico-social do indivíduo, para exclusão de outros diagnósticos, como o suicídio.
 
 # Etica e Medicina Paliativa
@@ -471,6 +469,7 @@ Nos seguintes anos, os estudos continuaram e culminaram na reparação por tor
 As primeiras observações em nanoescala foram feitas há cerca de 80 anos, com o advento da microscopia eletrónica em 1931. No entanto, a manipulação a este nível teve de aguardar 25 anos, até 1950, para que se pudesse proceder à remoção cirúrgica de organelos subcelulares (mitocôndrias). No início dos anos 60, inventaram-se os primeiros lasers e desde aí, a manipulação ótica em nanoescala tornou-se a tecnologia chave da maioria dos campos de investigação. 
 Atualmente, tem-se verificado a minimização da iatrogenia subjacente ao ato cirúrgico, com evolução a nível da nanocirurgia, que permitiu o desenvolvimento de técnicas e materiais capazes de alcançar o nível molecular. A aplicabilidade deste campo centra-se na procura da diminuição da lesão secundária associada a esta intervenção. Assim, e tendo o doente como o foco da prática médica cirúrgica, caminhou-se para a aplicação da engenharia de estruturas moleculares precisas e tipicamente de tamanho igual ou inferior a 0,1 mm. A título de exemplo, hoje é possível usar uma micropipeta de diâmetro inferior a 1 mm para realizar a secção completa de dendrites de neurónios isolados sem afetar a viabilidade celular. 
 Futuramente, o horizonte da cirurgia poderá visar a criação de nanorobots cuja precisão ultrapasse os limites da capacidade humana e de forma minimamente invasiva, como a sua utilização para localizar e eliminar células cancerígenas isoladas ou levar a cabo transplantes de tecidos e órgãos de forma não invasiva.
+
 # Nanocirurgia
 Resumo do estado atual da nanocirurgia
 
@@ -485,6 +484,12 @@ Annals of Surgery é a revista de cirurgia mais referenciada do mundo, sendo que
 De uma forma geral, as revistas constituem um motor de progresso científico, por serem um importante suporte para a mudança de paradigma das técnicas e conceitos cirúrgicos. Constituem o método mais rápido e economicamente viável para os investigadores fazerem circular e tornar visíveis os resultados do seu trabalho. Este meio de divulgação permite que a pesquisa possa ser analisada por diversos investigadores (pela comunidade científica em geral) para que possa ser analisada sobre diferentes pontos de vista. Para além disso, pode ser acedida pela sociedade em geral, permitindo uma expansão do conhecimento público.
 O principal objetivo de uma revista científica deve ser o de ampliação de uma área do saber, por isso devem ser livres de pressões socioeconómicas que de algum modo influenciem os resultados publicados.
 
+# Professor de Cx
+Enrique Finochietto é muitas vezes reconhecido como o professor da Cirurgia na América do Sul. Nasceu no dia 13 de março de 1881 em Buenos Aires, Argentina e faleceu em 1948. Destacou-se por ter sido um grande docente, investigador e inventor de um grande número de técnicas, aparelhos e instrumentos cirúrgico, baseados na anatomia e na procura de uma técnica cirúrgica mais especializada.
+De todo o seu legado, é de referir os 67 instrumentos por ele inventados até 1936, dos quais se destaca o afastador de costelas (fig2) (“rib spreader”), que atualmente ainda é utilizado, adaptado para adultos e crianças. Também foi pioneiro na invenção do conhecido porta agulhas de Finochietto, tesoura de lobectomia de Finochietto (fig3), lanterna de cabeça cirúrgica ou Frontalux, mesa cirúrgica móvel que podia ser ajustada com pedais. 
+Enrique Finochietto introduziu em 1920 um mecanismo que aspirava rapidamente as coleções de fluídos hidáticos. Desenvolveu também um retrator especifico para colmatar as dificuldades cirúrgicas em obesos até aí então esquecidas. Em 1929, foi o primeiro cirurgião Argentino a realizar uma cirurgia num doente com tamponamento cardíaco e também o primeiro a realizar a miotomia de Heller num doente com mega-esófago. Teve um papel preponderante na neurocirurgia contemporânea, na medida em que publicou vários trabalhos na área do tratamento dos tumores cerebrais e a gestão cirúrgica da hipertensão craniana, assim como a hemóstase do escalpe. Foi pioneiro na abordagem cirúrgica da tiróide e de intervenções torácicas.
+Apesar de não ser possível quantificar toda a obra académica e cirúrgica de Enrique Finochietto, a sua produção foi fundamental para a educação e treino médico-cirúrgico.
+
 # o filme luzes da Ribalta
 
 No original, “Limelight” (1952), escrito e dirigido por Charles Chaplin, conta-nos a história improvável da relação entre uma bailarina e um palhaço.
@@ -496,7 +501,6 @@ Calvero rejeita até ao último momento o amor de Terry, não porque não seja m
 A cena final tem uma carga emocional e iconicidade extraordinários. Calvero morre nos bastidores enquanto, no palco, Terry dança. Uma das citações mais famosas de Charles Chaplin diz o seguinte: “A vida é uma peça teatro que não permite ensaios. Por isso, canta, chora, dança, ri e vive intensamente, antes que a cortina se feche e chegues ao fim sem aplausos.”. Todo o filme é representativo da própria vida e trabalho artístico de Charles Chaplin, sendo Calvero considerado por muitos o seu homónimo. O palhaço termina os seus dias nos bastidores, no esquecimento, mas conseguindo, mesmo na recta final, os aplausos tão ansiados, e que fazem renascer nele a vã esperança de um futuro de sucessos a viajar com a bailarina e a actuar com ela. Terry brilha no palco, é aplaudida pela sua graciosidade e destreza, pela sua elegância, ousa libertar-se das amarras do medo, dos fantasmas do passado e das amarras que impôs a si própria e desabrocha para uma nova vida.
 Este filme toca assuntos muito complexos e profundos acerca da vida, da morte, do amor, da felicidade, e sem dúvida faz-nos reflectir, repensar as nossas próprias vidas sob uma nova perspectiva. Damo-nos conta de que, por vezes, somos a bailarina, outras o palhaço, sem sequer nos apercebermos, porque o tempo corre e nós deixamo-nos embalar.
 Podemos dizer, pois, que ficamos tocadas, na generalidade, a nível pessoal. Também a nível médico, enquanto profissionais de saúde, encontramos um sentido educativo da obra para a melhor compreensão dos nossos futuros pacientes, das suas ânsias, das suas expectativas e dos seus sonhos, que são, afinal elementos fundamentais do processo terapêutico.
-
 
 # O livro- a morte de Ivan L
   Durante a leitura do livro, compreendeu-se a existência de uma relação muito heterogénea por parte dos vários intervenientes. A esposa de Ivan Ilitch assumia uma atitude de censura constante e irredutível quanto ao conjugue, constatável em várias passagens do livro, nomeadamente: “ela adoptara uma atitude que consistia em dizer que Ivan Ilitch não fazia certas coisas que deveria ter feito, e que ele próprio era o responsável pela situação em que estava”. Foi notável uma atitude de revolta quanto à situação do marido, por condicionar tanto o seu estilo de vida, como o de sua filha. A postura da filha é muito semelhante à da mãe, considerando a situação do pai como um obstáculo à sua própria felicidade.
@@ -521,6 +525,30 @@ O médico deve respeitar a dignidade do doente no momento do fim da vida.
 
 Podemos concluir que Ivan é observado superficialmente por vários médicos de renome, em que as suas queixas e dúvidas sobre a doença são simplesmente ignoradas e encontrando num humilde criado a única pessoa que revela humanismo tratando-o com dignidade. Ao longo desta história, Tolstói procura evidenciar a fragilidade da existência humana. Fazendo-nos analisar a importância da escolha dos nossos valores os quais serão questionados nos momentos cruciais da nossa vida. 
 
+# outra reflexao
+1.A família da personagem principal e a sua relação com o doente.
+
+Ivan era o único que tinha a certeza da proximidade da sua morte; nenhum membro da família encarava a sua situação como o seu inevitável fim. Para sua revolta, achavam que se tratava de uma doença com possibilidade de cura e não aceitavam o facto de que todos os cuidados que ele queria receber eram de consolo e conforto. Nesta fase, a relação da personagem principal com a família baseia-se meramente na necessidade física de cuidados, sentindo-se, desta forma, um “fardo” para os demais. A ideia de que este “transtorno” se resolve com a morte de Ilitch está presente na família e no próprio. 
+
+2.A posição, sob o ponto de vista deontológico, dos médicos quanto à notícia da morte próxima ao doente.
+
+Os médicos viam em Ivan apenas a sua doença, não o vendo como um doente. De acordo com a nossa análise, os médicos assumem uma posição paternalista e de soberania, não validando os sentimentos de Ivan. Assim, desrespeitando o código deontológico, não explicam o diagnóstico e o prognóstico da doença e não têm em conta o estado emocional do doente, o que gera em si um sentimento de revolta. Na nossa perspetiva, o médico não está a tomar a função que lhe é devida de ajudar no sofrimento físico e emocional do doente, que poderia passar simplesmente pelo reconhecimento do seu constante sofrimento.
+
+3.O doente, o sofrimento e o contexto humano-social.
+
+Através do conto de uma história, Leo Tolstoy descreve de uma maneira muito realista o processo inevitável da morte humana, demonstrando as diferentes fases físicas e psicológicas da morte. Analisando esta obra literária a partir do modelo de Kubler-Ross, que definiu 5 fases psicológicas de um doente terminal:
+
+Negação/isolamento: “(…) No fundo da sua alma sabia que estava a morrer, mas não só não estava acostumado a isso como simplesmente não compreendia, não podia compreender de modo algum (…)”
+Ira: “«A eles tanto lhes dá, mas também eles hão-de morrer. Loucos! Eu antes, eles depois; e também a eles acontecerá. Mas estão alegres. Animais!»”; “«Porque é que fizeste tudo isto? Por que me trouxeste aqui? Porquê, por que me atormentas tão horrivelmente?....»”
+Negociação: “(…) Na sua imaginação ocorria aquela desejada cura do apêndice. Havia absorção, evacuação e restabelecimento da atividade normal. «Sim, é isso mesmo!» disse para consigo. «Só é preciso ajudar a natureza» (…)” 
+Depressão: “Tinha medo mas queria fundar-se, resistia mas ao mesmo tempo ajudava” … “Esperou apenas eu Guerassim saísse para o quarto ao lado e sem conter mais começou a chorar como uma criança. Chorou pelo desamparo, pela sua horrível solidão, pela crueldade dos homens, pela crueldade de Deus, pela ausência de Deus.”
+Aceitação: “ Assim como os meus sofrimentos se iam agravando, também a minha vida piorava (…) depois tudo se torna escuro” … “mas já sabia que a luta era impossível, esperava pela morte”
+
+4.O cuidador principal e o seu papel junto do doente.
+
+Guerassime assume o papel de cuidador e, aos olhos da personagem principal, é o único que compreende a fatalidade do seu destino. Assim, ao contrário do que sente em relação às outras pessoas, sente-se contagiado pela vitalidade deste cuidador, tornando-se, a sua presença, uma fonte de consolo e, até, alegria. Ao contrário dos familiares, Guerassime compreende a proximidade da morte e esforça-se em garantir os cuidados necessários nesta situação trágica, fazendo-o com genuína boa vontade. 
+O cuidador principal de Ivan foi o seu criado, Guerassime, tal como é demonstrado em: “Guerassime sorriu novamente e fez menção de sair. Mas Ivan Ilitch sentia-se tão bem com a presença dele que não o queria largar.” “ Gostava de conversar com ele. Guerassime fazia aquilo com toda a boa vontade, com muito jeito, e, com uma bondade que enternecia Ivan Ilitch”
+A escolha do criado para cuidador principal parece não ser ocasional e demonstra um enorme conhecimento das relações humanas por parte do autor. Na cadeia de poder estas duas personagens estão nos extremos opostos e, no entanto, na relação humanista estes partilham uma verdadeira compaixão. De todos os elementos da casa, o mais improvável é o que acaba por representar para Ivan Ilitch o verdadeiro apoio, tanto físico como emocional. Fica em aberto se tal compaixão e solidariedade demonstrada por Guerassime são resultado de uma postura altruísta ou apenas sentimentos normais da realidade e condições em que vive.
 
 # outra reflexão do livro “A Morte de Ivan Ilitch”
 
@@ -546,9 +574,49 @@ A linguagem utilizada pelo médico, baseada em termos específicos da medicina, 
 
 # outra reflexao do livro
 
+I. A família da personagem principal e a sua relação com o doente.
+
+A personagem principal é casado com Prascovia Fiodorovna e tem 2 filhos – uma filha e um filho. Desde o inicio da narrativa, conseguimos perceber que Ivan casou para seguir os padrões da sociedade, e não por amor. O seu relacionamento com a esposa não é o mais pacifico e agradável, passando pouco tempo com a família, preferindo ocupar o tempo no trabalho e a jogar com os amigos. 
+Quando fica doente e confinado ao espaço de sua casa, Ivan arrepende-se das escolhas feitas. Estando restrito ao ambiente familiar, passa a acreditar que vive uma mentira, e que a sua família o esconde dos amigos. O seu único prazer é a companhia do filho, de apenas 14 anos, e de um criado, por entender que estes jamais lhe mentiriam. Os restantes elementos da família, não admitem que Ivan está a morrer, seguindo uma vida normal, iludindo-o sobre possíveis tratamentos, menosprezando o seu sofrimento.
+"Essa mentira que cometiam para com ele nas vésperas da sua morte, essa mentira que rebaixava o acto formidável e solene da sua morte até ao nível das suas visitas, dos seus cortinados, dos seus jantares, era atrozmente penosa a Ivan Ilitch"
+
+II.A posição, sob o ponto de vista deontológico, dos médicos quanto à noticia da morte próxima ao doente.
+
+Em “A morte de Ivan Ilitch”, o papel desempenhado pelo médico faz-se nos pensar sobre a atitude perante o doente, principalmente por ocultar pormenores sobre o estado clinico do mesmo, não falando sobre o tema da vida e da morte. 
+“(...) Nós, os doentes, fazemos muitas vezes, provavelmente, perguntas despropositadas... Contudo, esta doença é perigosa ou não? O médico lançou-lhe um olhar severo através dos óculos, como se dissesse: acusado, se sai fora dos limites das perguntas que lhe são feitas, serei obrigado a fazê-lo sair da sala do tribunal.”
+O segundo médico que consultou Ivan, apesar de o abordar com ar sério não teve uma atitude desanimadora. À pergunta de Ivan Ilitch “Há alguma probabilidade de cura?”, o médico respondeu que “não se podia garantir nada, mas que havia probabilidades”, o que vai de encontro ao papel do médico de ser realista mas sem tirar a esperança. 
+Segundo o Artigo 44.º, relativo ao esclarecimento do médico ao doente:
+1.O doente tem o direito a receber e o médico o dever de prestar o esclarecimento sobre o diagnóstico, a terapêutica e o prognóstico da sua doença.
+2.O esclarecimento deve ser prestado previamente e incidir sobre os aspetos relevantes de atos e práticas, dos seus objetivos e consequências funcionais, permitindo que o doente possa consentir em consciência.
+3.O esclarecimento deve ser prestado pelo médico com palavras adequadas, em termos compreensíveis, adaptados a cada doente, realçando o que tem importância ou o que, sendo menos importante, preocupa o doente.
+4.O esclarecimento deve ter em conta o estado emocional do doente, a sua capacidade de compreensão e o seu nível cultural.
+5.O esclarecimento deve ser feito, sempre que possível, em função dos dados probabilísticos e dando ao doente as informações necessárias para que possa ter uma visão clara da situação clínica e optar com decisão consciente.
+
+Segundo o Artigo 50.º, relativo à revelação de diagnóstico e prognóstico:
+1.O diagnóstico e o prognóstico devem, por regra, ser sempre revelados ao doente, em respeito pela sua dignidade e autonomia.
+
+Segundo o Artigo 57.º:
+1.O médico deve respeitar a dignidade do doente no momento do fim da vida.
+
+III. O doente, o sofrimento e o contexto humano-social.
+
+O principal tormento de Ivan Ilitch era a mentira, aquela mentira, não se sabe porquê admitida por todos, que ele era apenas um doente não um moribundo, e que bastava conservar-se calmo e tratar-se para tudo se arranjar. Ao passo que ele bem sabia que, fizesse-se o que se fizesse, o único resultado seriam sofrimentos ainda mais temíveis e a morte. E essa mentira atormentava-o; sofria por não quererem admitir o que todos muito bem viam, inclusive ele próprio, por mentirem obrigando-o a ele próprio a tomar parte naquela intrujice.
+
+"Basta de mentiras! Bem sabeis e eu bem sei que vou morrer! Acabem ao menos com essa mentira!"
+
+Para ele evacuar também se procedia duma forma especial, e de cada vez era para ele era um verdadeiro suplício, por causa da inconveniência daquilo, da porcaria, do cheiro, e também porque tinha de ser ajudado por outra pessoa.
+
+IV. O cuidador principal e o seu papel junto do doente.
+
+O principal cuidador de Ivan Ilitch ao longo de toda a narrativa é Guerassim, o seu criado. Este era um homem jovem, bem disposto, analfabeto, um camponês que cuidava da higiene e das outras atividades quotidianas de Ivan Ilitch quando este se encontrava mais limitado. A dedicação, a generosidade e a humildade de Guerassim permitem dar à personagem principal tranquilidade durante as últimas fases da sua vida. Ao longo da narrativa, Leo Tolstoi relata uma relação de intimidade improvável entre um burguês e o seu criado na Rússia Czarista do século XIX. 
+“Na sua última visita a Ivan Ilitch, Piotr Ivanovich vira Gerassim no quarto, fazendo as vezes de enfermeiro, e percebia-se que Ivan Ilitch gostava muito dele.”; “Medidas especiais também tiveram de ser tomadas para ajudar na sua evacuação, o que era um constante sofrimento para ele; sofrimento pela sujeira, pela inconveniência e pelo cheiro e por saber que outra pessoa tinha de ajudar. No entanto, esse mesmo inconveniente foi o que trouxe a Ivan Ilitch algum conforto. Gerassim, o criado que servia a mesa, era quem vinha sempre limpá-lo.”
+“– Gerassim – chamou de novo quando este já havia feito a limpeza –, por favor, venha me ajudar! – Gerassim foi até ele. – Levante-me. É difícil sozinho e eu dispensei o Dimitri! Gerassim foi até ele e, com a mesma delicadeza com que andava, pôs seus braços fortes ao seu redor, ergueu-o delicadamente e amparou-o com uma mão, enquanto com a outra erguia suas calças e já ia colocá-lo na cadeira novamente quando Ivan Ilitch pediu para ser levado até o sofá.”;“ – Obrigado, você faz tudo tão bem e com tanto cuidado...! Gerassim sorriu outra vez e virou-se para sair. Mas Ivan Ilitch sentia tanto conforto em sua presença que não queria deixá-lo ir.”; “Depois disso, muitas vezes Ivan Ilitch chamava Gerassim e pedia que colocasse suas pernas sobre seus ombros e sentia prazer em conversar com ele. Gerassim fazia tudo calmamente de boa vontade, com simplicidade e uma bondade que comoviam Ivan Ilitch. Nas outras pessoas, saúde, força e vitalidade ofendiam-no, mas a força e a vitalidade de Gerassim, ao contrário de aborrecê-lo, transmitiam-lhe calma.”
+
+# outra reflexao do livro
+
 Proceder a uma síntese dos capítulos VI - X associada a uma reflexão sobre os aspectos a indicados, justificando com citações do livro:
 
-A família da personagem principal e a sua relação com o doente.
+1.A família da personagem principal e a sua relação com o doente.
 
 Desde o primeiro capítulo da obra que o leitor é apresentado aos diversos familiares da personagem principal, contudo é nos capítulos referentes ao clímax e desfecho da história que esses intervenientes revelam a sua verdadeira essência, tanto em termos de construção de carácter individual, como nas relações inter-pessoais, com especial ênfase na relação com Ivan Ilitch.
 Consideramos, no contexto de família, que as personagens de maior relevância são: a esposa de Ivan Ilitch, Praskóvia Fiódorovna; a filha, Liza Golovina; o filho, Vassili e o criado, Guerassim.
@@ -558,8 +626,7 @@ A postura da filha é muito semelhante à da mãe, considerando a situação do 
 O filho, por outro lado, manifesta ao longo de toda a acção, uma reacção de pena genuína (antagonizante da do sentimento frívolo expresso por Liza e Praskóvia) quanto à situação do pai, que é bem perceptível na passagem “…o aluno de liceu entrou de mansinho no quarto do pai e aproximou-se da cama. […] A sua mão caiu na cabeça do rapaz, que a agarrou, levou aos lábios e começou a chorar.”.
 O criado, apesar de não fazer parte da família, integra-se no agregado e é, paradoxalmente, a “pedra basilar” de suporte de Ivan. É descrito ao longo do livro como sendo o único que tem uma postura humanista, em relação à doença do patrão. Reconhece a fragilidade de Ivan, apercebe-se do seu fim inexorável e procura cuidar dele e confortá-lo, de todas as vezes, o melhor que pode, altruisticamente. Isto transparece em várias passagens do livro, mas consideramos como uma das mais marcantes, a seguinte: “… passou a chamar por vezes Guérassim para que lhe segurasse as pernas sobre os ombros. Gostava de conversar com ele. Guérassim fazia tudo isso facilmente, de boa vontade, com uma simplicidade e uma bondade que comovia Ivan Ilitch.”.
 
-A posição, sob o ponto de vista deontológico, dos médicos quanto à notícia da morte próxima ao doente.
-
+2.A posição, sob o ponto de vista deontológico, dos médicos quanto à notícia da morte próxima ao doente.
 
 A construção de uma relação de confiança entre o médico e o paciente é essencial para o processo terapêutico e baseia-se numa comunicação eficaz. Entende-se que essa comunicação passa por ouvir com empatia a história, dar espaço para que ele possa expressar as suas preocupações e transmitir-lhe, com palavras que ele possa compreender, o diagnóstico e eventual tratamento da sua condição. Nada disso se verificou nos vários encontros de Ivan Ilitch com os diferentes médicos a quem recorreu. 
 O conceito de médico que nos é apresentado na obra é muito impessoal, frio e paternalista. Há uma clara ausência de empatia por parte do médico, e atrever-nos-íamos a dizer de respeito pelo paciente enquanto indivíduo enfermo, fragilizado, mas com direito ao conhecimento claro da sua situação e das suas opções de tratamento. 
@@ -570,33 +637,33 @@ A conduta que acabamos de referir é logo uma das primeiras a ser desrespeitada,
 Faz parte dos deveres do médico descodificar a linguagem técnica de forma a ter a certeza de que o paciente compreende a informação que lhe está a ser transmitida. Ainda de acordo com o mesmo artigo, o esclarecimento deve ser feito, sempre que possível, em função dos dados probabilísticos e dando ao doente as informações necessárias para que possa ter uma visão clara da situação clínica e optar com decisão consciente.
 Quanto ao diagnóstico e prognóstico, o Artigo 50.º refere que estes devem, por regra, ser sempre revelados ao doente, em respeito pela sua dignidade e autonomia.
 
-
-O doente, o sofrimento e o contexto humano-social.
+3.O doente, o sofrimento e o contexto humano-social.
 
 A doença, enquanto entidade, cria um contexto de fragilidade, debilidade, insegurança, dúvida, medo, expectativa e necessidade de cuidados que definem o doente enquanto indivíduo. Ela tem a capacidade de fazer os indivíduos colocarem em causa e reflectirem acerca de coisas que sempre deram como garantidas, como o amor dos seus entes queridos, escolhas que fizeram ao longo da vida, a própria forma de encarar a vida e põe-nos cara a cara com a morte como uma possibilidade, ainda que em muitos casos remota, mas possível, a morte não como algo que acontece aos outros, mas como crua realidade que nos pode atingir.
 Não podemos nunca esquecer-nos de que o doente é uma pessoa, um ser humano, não uma doença. Sempre que estamos perante um paciente estamos, em boa verdade, perante um indivíduo que tem uma família, amigos, um emprego, crenças próprias, uma história passada e ambições futuras, sonhos e expectativas. Um ser temente da morte. Um ser que sofre. E porque sofre? Não é só no contexto físico que se define o sofrimento, mas também na iminência da perda de toda uma vida, um passado e um futuro, memórias e ambições. A realidade da nossa finitude que se apresenta crua e fria, uma realidade à qual tentamos escapar-nos no quotidiano, mascarando-a, e que agora se revela desnuda. Neste contexto, é importante diferenciar o sofrimento físico causado pela enfermidade do sofrimento psicológico imposto pela mesma e causado pela carga emocional e implicações nas normais dinâmicas de relações pessoais.
 Nesta obra são soberbamente representados ambas as etiologias do sofrimento, a forma como se influenciam mutuamente e como afectam o indivíduo doente, nomeadamente: “Quando, de manhã, viu o criado e depois a mulher, depois a filha, depois o médico – cada um dos movimentos deles, cada palavra, confirmava para ele a horrível verdade que se lhe revelara durante a noite. Neles via-se a si próprio, tudo aquilo para que tinha vivido e via claramente que tudo aquilo estava mal, tudo aquilo era um horrível e enorme engano que ocultava a vida e a morte. Essa consciência aumentou, decuplicou, os sofrimentos físicos. Gemia e agitava-se e puxava a roupa. Parecia-lhe que esta o apertava e asfixiava. E odiava-os por isso.”.     
 A vontade de morrer é expressa devido há intensa dor que sente não cedendo a potentes analgésicos como morfina e ópio. No entanto, mantém o seu instinto de sobrevivência. Durante este período de sofrimento desesperado, sente-se abandonado e não amado: “(...) Queria que o acarinhassem, que o beijassem, que chorassem por ele como quem acaricia e consola as crianças.” Questiona-se sobre a sua vida de mentiras, apercebendo-se da insignificância da mesma e da fragilidade das suas conquistas. (...) a sua vida divide-se em dois estados de espíritos opostos, ou o desespero e a espera da morte incompreensível e horrenda, ou a esperança e uma observação interessada do funcionamento do seu corpo.”
      Inicia um caminho de busca pelo sentido da vida, durante o qual percebe terem sido poucos os momentos da sua existência com significado, revivendo e refugiando-se, sobretudo, na sua feliz infância.
-O cuidador principal e o seu papel junto do doente.
+     
+4.O cuidador principal e o seu papel junto do doente.
 
 Após a leitura da obra tornou-se-nos óbvio que o papel de cuidador principal é atribuído a Guérassim. 
 Como já abordamos anteriormente, a atitude desta personagem é a de uma entrega completa, segundo os princípios genuínos do altruísmo e da compaixão para com o outro. Tendo em conta o contexto social do autor, Lev Tólstoi, e as suas crenças religiosas (acreditava num cristianismo em que a máxima principal era encontrar a felicidade na simplicidade, no despojo, e em que Deus se podia encontrar em cada pessoa), atrevemo-nos a aventar que a personagem de Guérassim se ergue como uma personificação desses ideais.
 Aproveitamos para fazer referência a mais uma citação da obra em que esta construção de carácter é revelada de forma bastante explícita: “Sentia-se bem quando Guérassim, por vezes durante noites inteiras, lhe segurava as pernas e não queria ir dormir, dizendo: «Não se preocupe, Ivan Ilitch, eu depois durmo»; ou quando ele de repente, passando a tratá-lo por «tu», acrescentava: «Se não estivesses doente, mas assim porque não hei-de servir-te?»”.
 
-Conclusão
+5.Conclusão
 
 Ivan Ilitch um juiz reconhecido, preocupado com o estatuto social, observado apenas por médicos de renome, apercebe-se da superficialidade das suas consultas nas quais as suas queixas e dúvidas sobre a doença são simplesmente ignoradas e encontrando num humilde criado a única pessoa que revela humanismo tratando-o com dignidade. Ao longo da história, Tolstói procura evidenciar a fragilidade da existência humana. Fazendo-nos analisar a importância da escolha dos nossos valores os quais serão questionados nos momentos cruciais da nossa vida. 
 
 # Eutanasia e Testamento Vital
 
-1. Acerca dos fatores potenciadores do desejo de antecipação de morte (depressão, sensação de ser um fardo, isolamento social/solidão, entre outros), elabore um pequeno texto sobre possíveis intervenções, na perspetiva da sociedade civil e da comunidade médica, que possam minimizar o sofrimento associado ao desejo de antecipação de morte. 
+1.Acerca dos fatores potenciadores do desejo de antecipação de morte (depressão, sensação de ser um fardo, isolamento social/solidão, entre outros), elabore um pequeno texto sobre possíveis intervenções, na perspetiva da sociedade civil e da comunidade médica, que possam minimizar o sofrimento associado ao desejo de antecipação de morte. 
 
 “A intervenção paliativa não se esgota no controlo sintomático – dor, dispneia, entre outros sinais e sintomas físicos – intervindo ativamente noutras áreas como a depressão, a ansiedade, a qualidade de vida ou o sofrimento existencial associado à fase terminal.” (Block, 2000). Vários estudos demonstram a prevalência do desejo de antecipação de morte (DAM), eutanásia ou morte medicamente assistida por parte dos doentes em fase terminal. Verifica-se uma associação do DAM com vários fatores psicossociais, como a depressão, o isolamento ou solidão, estando também, por outro lado, relacionado com uma diminuição da qualidade de vida e a sensação de ser um fardo para os familiares ou cuidadores. Em alguns casos, este desejo não se relaciona apenas com o sofrimento, “mas sim com a uma expressão de que se está preparado para morrer ou que se pretende simplesmente um tempo de escuta efetivo ao apelo de ajuda.” (Dr. Miguel Julião). 
 	Dada a relevância e prevalência do DAM, é essencial uma abordagem multidisciplinar em doentes em fase terminal, para que sejam identificados estes fatores predisponentes, que podem ser prevenidos e remediados com intervenções sociais e médicas. Durante este processo de acompanhamento, devemos assegurar a dignidade destes doentes, quer no que respeita aos atos médicos, quer na relação médico-doente, sendo que a dignidade constitui por si só uma base terapêutica.
 	A Terapia da Dignidade representa uma nova psicoterapia de suporte, que visa analisar e responder à angústia psicossocial e existencial de doentes em fim de vida. Uma terapia breve e individualizada que permite aos doentes abordar momentos e aspetos com maior sentido e propósito das suas vidas, que antecipam como sendo relevantes após a sua morte. Assim, a Terapia da Dignidade possibilita uma aproximação ao doente e um acompanhamento mais individualizado e centrado no doente e sua doença, além das suas preocupações futuras, muitas delas fontes de preocupação, angústia e sofrimento.
 
-2. Distinção entre eutanásia e outras decisões médicas relacionadas com o fim da vida/a questão do suicídio assistido. Questões relacionadas com o fim de vida: um problema da relação terapêutica médico-doente e/ou como uma questões jurídica? 
+2.Distinção entre eutanásia e outras decisões médicas relacionadas com o fim da vida/a questão do suicídio assistido. Questões relacionadas com o fim de vida: um problema da relação terapêutica médico-doente e/ou como uma questões jurídica? 
 
 A eutanásia pode ser definida como um ato ou método de provocar a morte, com a finalidade de evitar o prolongamento do sofrimento de alguns doentes, realizada por um profissional de saúde. Ricardo Royo-Vilanova y Morales classifica-a como um “direito de morrer sem dor”. Por sua vez, o suicídio assistido representa o término da vida de um doente, realizada pelo próprio, associado com a colaboração e facilitação por parte de um médico ou outro profissional de saúde. Apesar de diferentes no que respeita à pessoa (médico ou doente) que pratica a morte, a eutanásia e o suicídio assistido podem ser considerados semelhantes em termos morais. 
 A relação médico-doente resulta da liberdade de escolha que é dada a este último. Ao médico, cabe o papel de acompanhar o doente, apresentar um tratamento, um conforto, o melhor modo de viver possível, muitas vezes determinado pela crueldade da própria doença. É uma relação de confiança e empatia, de acreditar no médico e crer nas suas capacidades. Mas nem sempre a ciência está do nosso lado e podemos deparar-nos com a falta de uma solução para aquele problema. Por vezes, isto despoleta no doente um sofrimento inacabável, desejando pôr término à sua vida e à dor que o acompanha. E é aqui que se coloca a questão “Respeitar a vida humana deverá também ser respeitar a decisão do paciente de a terminar?”.
@@ -605,7 +672,7 @@ Juridicamente falando, a Constituição da República Portuguesa salvaguarda o d
 Em alguns países da Europa como Luxemburgo, Holanda, Bélgica, a eutanásia e o suicidado assistido estão legalizadas. Nestes países, é crucial a existência de uma legislação para que estes atos não se tornem em métodos de fim de vida banais, mas que sejam atos ponderados e apenas determinado pelo paciente, informado da sua condição e das opções. 
 	Assim sendo, muitos são os que defendem que devemos ter outra abordagem perante estes doentes, visto que este desejo de morte pode ser entendida com o um pedido de ajuda e de afeto, além de que não havendo uma ciência médica exata, que está em constante evolução, é difícil definir um prognóstico definitivo que nos ajude na decisão da morte assistida. Mas a questão mantem-se: apesar das implicações jurídicas destas práticas, o sofrimento do doente, que vive com angústia e desespero por ausência de melhoria apesar dos vários tratamentos, deverá ter ou não um peso importante na decisão clínica?
 
-3. Testamento vital e decisões médicas em fim de vida. Análise da lei portuguesa e do parecer da CNECV. O médico deve seguir sempre a vontade do doente ou do seu representante? A vontade da pessoa deve ser sempre soberana?
+3.Testamento vital e decisões médicas em fim de vida. Análise da lei portuguesa e do parecer da CNECV. O médico deve seguir sempre a vontade do doente ou do seu representante? A vontade da pessoa deve ser sempre soberana?
 
 O Serviço Nacional de Saúde define o Testamento Vital como “um documento, registado eletronicamente, onde é possível manifestar o tipo de tratamento ou os cuidados de saúde, que pretende ou não receber, quando estiver incapaz de expressar a sua vontade. O Testamento Vital permite, também, a nomeação de um ou mais procuradores de cuidados de saúde.” Assim, tendo por base diretivas antecipadas de vontade, o testamento vital define os cuidados de saúde que o individuo pretende receber no futuro.
 A lei Lei n.º 25/2012, de 16 de julho, que estabelece o regime das diretivas antecipadas de vontade (DAV) em matéria de cuidados de saúde, esclarece que estão capacitados de realizar o testamento vital todos os indivíduos que sejam maiores de idade, que não se encontrem interditos ou inabilitados por anomalia psíquica e que se encontrem capazes de dar o seu consentimento consciente, livre e esclarecido. É ainda importante realçar que a vontade de um individuo nunca poderá ser contrária à Lei, às boas práticas e à ordem pública.
@@ -640,7 +707,7 @@ Estratégias de formação pessoal nas escolas a crianças e jovens adolescentes
 Quanto ao médico este deverá ser dotado da sensibilidade de poder compreender o quanto é importante chamar a família ás consultas rotineiras do idoso ou doente crónico.A criação de uma consulta da familia na doença crónica e a capacitação do cuidador ajudará a que estes compreendam melhor a situação vivida pelo parente ou amigo doente. 
 A formação do médico em compreender que o fim de vida ou o tratamento da doença/isolamento/ depressão dependerá além de todo o tratamento farmacológico do suporte familiar e emocional daquela pessoa e nenhuma instituição governamental ou particular consegue se igualar à assistência de carinho e atenção que só uma família saudável pode oferecer. Este deverá articular entre as entidades sociais e a família o suporte financeiro e a necessidade de o cuidador ficar em casa com o doente.
 
-1. Acerca dos factores potenciadores do desejo de antecipação de morte (depressão, sensação de ser um fardo, isolamento social/solidão, entre outros), elabore um pequeno texto sobre possíveis intervenções, na perspetiva da sociedade civil e da comunidade médica, que possam minimizar o sofrimento associado ao desejo de antecipação de morte. 
+1.Acerca dos factores potenciadores do desejo de antecipação de morte (depressão, sensação de ser um fardo, isolamento social/solidão, entre outros), elabore um pequeno texto sobre possíveis intervenções, na perspetiva da sociedade civil e da comunidade médica, que possam minimizar o sofrimento associado ao desejo de antecipação de morte. 
 
 A literatura indica que o desejo de antecipação de morte (DAM) está associado a variáveis sociais e psicológicas, como a depressão, mais até do que a variáveis relacionadas com sintomas de funcionamento físico e dor. Outras variáveis, entre as quais, a deterioração da qualidade de vida, a perda de dignidade e a sensação, por parte do doente, de que é um fardo para a sua rede de apoio são factores que também têm sido identificados em trabalhos sobre DAM.
 Os médicos podem não ter conhecimentos clínicos para identificar problemas psicológicos, como depressão, ansiedade e DAM, em pacientes terminais. Além disso, os médicos tendem a evitar discutir e explorar esses aspectos devido a limitações de tempo, o que pode levar a mais sofrimento. Embora haja uma tendência óbvia entre os médicos para evitar essas questões, muitos factores relacionados ao sofrimento psicológico e DAM podem ser remediáveis com intervenções sociais e médicas.
