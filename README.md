@@ -34,7 +34,7 @@ b) Modo da ocorrência: acidental, tentativa de suicídio ou agressão;
 c) Implicações legais do diagnóstico e potenciais sequelas (e.g. nos abusos infantis, nas tentativas de suicídio ou outro trauma autoinfligido, tortura, entre outros).
 
 Todos estes tópicos envolvem importantes decisões diretamente relacionadas com o diagnóstico primário ou com o diagnóstico diferencial. Entre as áreas de intervenção da Clínica Forense assinalam-se as seguintes:
-# Areas de interv
+# Areas de intervençao
 
 a) Lesões agudas e crónicas nas pessoas, sua descrição, documentação forense, colheita de amostras e avaliação da etiologia e grau de gravidade das lesões, incluindo:
 
@@ -215,16 +215,16 @@ ser enviado no mais curto espaço de tempo à autoridade judicial que solicitou 
  
  # Um relatório de autópsia médico-legal, 
  independentemente do caso em apreço deve compreender sempre os seguintes capítulos:
- Informação (Tipos de informação: social, clínica, policial, da imprensa escrita, outro)
- Sinais relativos á identificação (sexo, idade, peso, altura, cor dos cabelos, cor da
+Informação (Tipos de informação: social, clínica, policial, da imprensa escrita, outro)
+Sinais relativos á identificação (sexo, idade, peso, altura, cor dos cabelos, cor da
 iris, fórmula dentária, tatuagens, sinais particulares, anomalias)
- Exame do hábito externo (cabeça, pescoço, tórax, abdómen. Região dorso-lombar,
+Exame do hábito externo (cabeça, pescoço, tórax, abdómen. Região dorso-lombar,
 região perineal, membros)
- Exame do hábito interno (cabeça, pescoço, tórax, abdómen. Região dorso-lombar,
+Exame do hábito interno (cabeça, pescoço, tórax, abdómen. Região dorso-lombar,
 região perineal, membros)
- Meios auxiliares de diagnóstico
- Discussão
- Conclusões
+Meios auxiliares de diagnóstico
+Discussão
+Conclusões
 
 # SICO
 1. O que é o SICO? 
@@ -253,17 +253,17 @@ Isto permite garantir a confidencialidade da informação de saúde e dados pess
 O SICO articula-se ainda com as Autoridades de Polícia, Instituto Nacional de Emergência Médica (INEM), o Ministério Público (MP), o Instituto Nacional de Medicina Legal e Ciências Forenses, IP (INMCF,IP) para a sua intervenção célere nas situações previstas na lei.
 
 A Direção-Geral da Saúde é a entidade responsável pelo tratamento da base de dados e garante a vigilância epidemiológica da mortalidade identificando situações de risco para a saúde pública e a codificação das causas de morte de acordo com a Classificação Internacional de Doenças, transmitindo esta informação ao Instituto Nacional de Estatística (INE).
-(topo)
+
 
 3. Qual é o contacto de helpdesk do SICO para apoio informático?
 
 Os contactos do centro de suporte para o SICO são assegurados pelos Serviços Partilhados do Ministério da Saúde através do e-mail: servicedesk@spms.min-saude.pt e do telefone: 220 129 818 disponível 24 horas por dia, todos os dias.
-(topo)
+
 
 4. Quando será obrigatória a utilização do SICO para certificação dos óbitos?
 
 A utilização do SICO será obrigatória para a certificação dos óbitos ocorridos em território nacional a partir das 0 horas de 1 de janeiro de 2014, segundo Despacho nº 13788/2013 de 29 de Outubro de 2013.
-(topo)
+
 
 B - Médicos/Instituições de Saúde
 
@@ -272,28 +272,28 @@ B - Médicos/Instituições de Saúde
 O link de acesso ao SICO está disponível através da página da DGS www.dgs.pt, espaço “SICO” (barra lateral esquerda) - emitir certificado de óbito (clicar no logo).
 Pode ainda ser gravado no computador o endereço https://servicos.min-saude.pt/sico que redireciona diretamente para o SICO.
 Deve ainda consultar a Orientação nº 20/2013 da DGS para informação adicional e consulta do “Guia Prático” para a utilização do SICO.
-(topo)
+
 
 2. Não tenho password (ou esqueci-me dela). Como posso obtê-la?
 
 Pode pedir diretamente na pagina inicial do SICO no botão “Pedir Acesso” e solicitar a geração de nova password, indicando obrigatoriamente nº. cédula, nome completo, data de nascimento, nº telemóvel, email e instituição onde exerce funções; Caso seja indicado que já tem um utilizador criado, deve preencher o campo “Esqueci-me da senha”. Em situações urgentes deve ser ainda contactado o helpdesk para apoio informático do SICO 220 129 818 ou enviar email para o endereço servicedesk@spms.min-saude.pt.
-(topo)
+
 
 3. Como posso obter automaticamente os dados de identificação do falecido ao preencher o formulário eletrónico?
 
 Colocando o nº de identificação civil (nº de bilhete de identidade) e o nº de utente e carregando na lupa. O nº de identificação civil deve ser obrigatoriamente utilizado para preenchimento automático dos dados de identificação de acordo com o Registo Civil. O nº de utente preencherá automaticamente a morada.
-(topo)
+
 
 4. Tenho que emitir um certificado de óbito para uma pessoa cuja identificação é desconhecida. Como devo proceder?
 
 Nestas situações deve escrever "desconhecido" nos campos relativos ao nome e filiação, e simultaneamente, escrever no campo Observações, as circunstâncias que justificam esse fato; Apenas em situações nas quais seja impossível obter a identificação do indivíduo falecido esta opção deve ser utilizada, uma vez que estes dados são os que permitem identificar inequivocamente o indivíduo para o registo civil do falecimento e a sua ausência inviabilizará os procedimentos necessários para o enterramento do cadáver.
-(topo)
+
 
 5. O SICO parece não estar disponível e pretendo emitir um certificado de óbito (CO). O que devo fazer?
 
 Deve contactar o helpdesk para confirmar essa indisponibilidade. Caso aquela seja confirmada será enviado pelo helpdesk um “Documento comprovativo da indisponibilidade do SICO” que deverá ser entregue juntamente com o modelo de certificado em papel na Conservatória do Registo Civil.
 O médico deve emitir o certificado num dos modelos nº. 1725 ou 1725A, da Impressa Nacional Casa da Moeda, consoante os casos, ficar com uma cópia e, dentro de 48h, transcrever o conteúdo do papel para o SICO tendo o cuidado de escolher a opção ‘Registar CO Normal em Papel’ ou ‘CO Fetal em Papel’, consoante o caso, tendo o cuidado de inserir o nº. do documento em papel que utilizou e que consta no cabeçalho do papel. Isto tem como propósito evitar que surjam 2 números de certificado de óbito para a mesma pessoa. O registo do certificado de óbito no SICO é imprescindível para a certificação do óbito, uma vez que o modelo de papel se destina apenas ao transporte e inumação do cadáver.
-(topo)
+
 
 6. Devo imprimir o certificado de óbito ou a guia de transporte?
 
@@ -303,58 +303,57 @@ Deve imprimir sempre a guia de transporte para acompanhar o cadáver. O certific
 7. Foram identificados erros no preenchimento do certificado de óbito (CO) já emitido. Como devo proceder?
 
 Deve solicitar a guia de transporte para identificar o nº. do CO  emitido (caso não o tenha). Deve aceder ao SICO em “Certificado de óbito electrónico” - ‘Complementar o CO’ pesquisando o certificado através do número do certificado e corrigir o erro. Após esta correção deverá emitir uma nova Guia de transporte que comprovará a retificação efetuada.
-(topo)
+
 
 8. Como registo no SICO o resultado de uma autópsia?
 
 O resultado da autópsia, clínica ou médico-legal, deve obrigatoriamente ser inserido no SICO em ‘Relatório de autópsia’, sempre que aquela tenha lugar. Os dados da autópsia devem ser registados tão cedo quanto possível para que os mesmos sejam utilizados na codificação das causas de morte efetuadas pela Direção-Geral da Saúde.
-(topo)
+
 
 9. O que é o Boletim de Informação Clínica (BIC) e quando devo preenchê-lo?
 
-O BIC deve ser preenchido em situações de morte violenta ou causa desconhecida quando o óbito ocorre em instituições de saúde e destina-se a comunicar ao Ministério Público a informação clínica e circunstancial recolhida pelo médico que certificou o óbito para informar a sua decisão sobre a realização de autópsia médico-legal (ver também a pergunta 10).
-(topo)
+O BIC deve ser preenchido em situações de morte violenta ou causa desconhecida quando o óbito ocorre em instituições de saúde e destina-se a comunicar ao Ministério Público a informação clínica e circunstancial recolhida pelo médico que certificou o óbito para informar a sua decisão sobre a realização de autópsia médico-legal.
+
 
 10. Há uma situação suspeita de morte violenta (ou desconhecida) no meu hospital e tenho que preencher o Boletim de Informação Clínica (BIC). Devo fazê-lo no SICO? Como vai chegar ao Ministério Público?
 
 Deve recorrer ao SICO para registar o BIC. Após o registo do BIC é possível gerar um PDF ou imprimir para colocação no processo clínico. A comunicação ao Ministério Público deste facto tem que ser feito por email ou fax e/ou telefone, tal como acontecia anteriormente (consultar a Orientação nº 20/2013 da DGS para modelo de ofício de comunicação ao Ministério Público); O Ministério Público fará também a comunicação da sua decisão pelos mesmos meios, de forma a informar se foi ordenada ou dispensada a autópsia médico-legal.
-(topo)
+
 
 11. Como posso alterar a minha password?
 
 Neste momento o SICO não permite alterar a sua password. Caso seja necessário fazê-lo por questões de segurança deverá contactar o helpdesk para apoio informático do SICO 220 129 818 ou enviar email para o endereço servicedesk@spms.min-saude.pt.
-(topo)
+
 
 12. Registei um Certificado de óbito (CO) e agora preciso de o corrigir mas não me lembro do número desse CO. Como posso fazer?
 
 Pode “Consultar CO” sem qualquer filtro e irão aparecer todos os CO que emitiu ou retificou. Basta então que encontre o CO pretendido e anotar o número. Em seguida deve aceder a “Complementar CO” e fazer a retificação pretendida.
-(topo)
+
 
 C - Ministério Público
 
 1. Qual a intervenção do Ministério Público no SICO?
 
 O Ministério Público deve aceder ao SICO nas situações de morte violenta, causa desconhecida, suspeitas de crime ou tendo o óbito ocorrido há mais de um ano para assinalar a dispensa ou não de autópsia médico-legal e a colocação das causas de morte em segredo de justiça, se assim pretender. Este acesso é imprescindível para que o certificado de óbito seja enviado ao Instituto dos Registos e do Notariado, I.P. (conservatória do registo civil), a fim de ser lavrado o assento de óbito.
-(topo)
+
 
 2. Não tenho password (ou esqueci-me dela). Como posso obtê-la?
 
 As senhas de acesso são as mesmas que utiliza para aceder à aplicação TMENU. Experimente p.f.. O endereço é: https://serviços.min-saude.pt/sico. 
 Caso as suas senhas não funcionem deverá comunicar com o ITIJ através do endereço apoio@mail.itij.mj.pt, ou dos telefones 707 200 004 ou 21 318 9000, durante os dias úteis, das 08:00 às 20:00;
-(topo)
+
 
 D - Autoridades de Polícia (PSP, GNR e Polícia Marítima)
 
 1. Qual a intervenção das Autoridades de Polícia no SICO?
 
 As Autoridades de Polícia devem aceder ao SICO para imprimir o boletim de óbito nas situações previstas na lei. Para este efeito utilizam a informação constante na guia de transporte para consultar o certificado de óbito. Após a sua apreciação e validação, devem imprimir o boletim de óbito através do SICO.
-(topo)
+
 
 2. Quero aceder ao SICO mas não tenho password (ou esqueci-me dela). Como posso obtê-la?
 
 As senhas de acesso são as mesmas que utilizam nas aplicações do Ministério da Administração Interna. O endereço é: https://serviços.min-saude.pt/sico. 
 Caso as suas senhas não funcionem deverá comunicar com a UTIS através do endereço helpdesk@rnsi.local ou do telefone 214219700 para validação;
-
 
 
 # NOTAS da aula.
